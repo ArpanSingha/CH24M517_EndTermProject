@@ -1,8 +1,0 @@
-pandas 
-dvc
-mlflow
-notebook
-numpy
-matplotlib
-torch
-pyspark
